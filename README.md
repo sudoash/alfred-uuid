@@ -10,7 +10,7 @@ Generate UUID and send to cursor:
 
 	uuid [Enter]
 
-Generate UUID and send to clipboard:
+Generate UUID and copy to clipboard:
 
 	uuid [CMD + Enter]
 
