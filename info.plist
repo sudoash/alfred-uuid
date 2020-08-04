@@ -8,11 +8,11 @@
 	<string>Productivity</string>
 	<key>connections</key>
 	<dict>
-		<key>F5FE7473-9D51-492B-809B-FBD262166BCF</key>
+		<key>4159F930-3FED-436A-8A3F-657DC3B7EB1F</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>6143299F-4C74-418B-BEF7-427BF30112A0</string>
+				<string>23A82CCC-5B98-4302-84CC-3AAC25825534</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -44,11 +44,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>4159F930-3FED-436A-8A3F-657DC3B7EB1F</key>
+		<key>F5FE7473-9D51-492B-809B-FBD262166BCF</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>23A82CCC-5B98-4302-84CC-3AAC25825534</string>
+				<string>6143299F-4C74-418B-BEF7-427BF30112A0</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -174,12 +174,19 @@
 	<string></string>
 	<key>uidata</key>
 	<dict>
-		<key>F5FE7473-9D51-492B-809B-FBD262166BCF</key>
+		<key>23A82CCC-5B98-4302-84CC-3AAC25825534</key>
+		<dict>
+			<key>xpos</key>
+			<integer>515</integer>
+			<key>ypos</key>
+			<integer>170</integer>
+		</dict>
+		<key>4159F930-3FED-436A-8A3F-657DC3B7EB1F</key>
 		<dict>
 			<key>xpos</key>
 			<integer>340</integer>
 			<key>ypos</key>
-			<integer>315</integer>
+			<integer>170</integer>
 		</dict>
 		<key>6143299F-4C74-418B-BEF7-427BF30112A0</key>
 		<dict>
@@ -195,19 +202,12 @@
 			<key>ypos</key>
 			<integer>240</integer>
 		</dict>
-		<key>4159F930-3FED-436A-8A3F-657DC3B7EB1F</key>
+		<key>F5FE7473-9D51-492B-809B-FBD262166BCF</key>
 		<dict>
 			<key>xpos</key>
 			<integer>340</integer>
 			<key>ypos</key>
-			<integer>170</integer>
-		</dict>
-		<key>23A82CCC-5B98-4302-84CC-3AAC25825534</key>
-		<dict>
-			<key>xpos</key>
-			<integer>515</integer>
-			<key>ypos</key>
-			<integer>170</integer>
+			<integer>315</integer>
 		</dict>
 	</dict>
 	<key>variablesdontexport</key>
